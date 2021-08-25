@@ -1,0 +1,6 @@
+Credentials cache: API:3B31B414-FC9F-4375-9927-46EE1453FB56
+        Principal: gnuno-pa@42LISBOA.COM
+
+  Issued                Expires               Principal
+Aug  3 13:57:37 2021  Aug  3 23:57:37 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
+Aug  3 13:57:39 2021  Aug  3 23:57:37 2021  HTTP/student-storage.42lisboa.com@42LISBOA.COM
